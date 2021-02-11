@@ -67,7 +67,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/nickpieper"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-instagram"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/nicholaspieper"
 
 footer:
@@ -79,7 +79,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/nickpieper"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-instagram"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/nicholaspieper"
 
 defaults:
