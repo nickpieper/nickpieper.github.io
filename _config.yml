@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Nick Pieper"
   avatar : "/assets/images/npSelfie.PNG"
-  bio    : "Cybersecurity professional with a large interest in securing critical infrastructure."
+  bio    : "Cybersecurity professional with a strong interest in securing critical infrastructure."
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -68,7 +68,7 @@ author:
       url: "https://github.com/nickpieper"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/nicholaspieper"
+      url: "https://linkedin.com/in/nicholaspieper"
 
 footer:
   links:
@@ -80,7 +80,7 @@ footer:
       url: "https://github.com/nickpieper"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/nicholaspieper"
+      url: "https://linkedin.com/in/nicholaspieper"
 
 defaults:
   # _posts
