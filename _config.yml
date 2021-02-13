@@ -56,7 +56,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : <i class="fa fa-industry" aria-hidden="true"></i> Nick Pieper
+  name   :  "Nick Pieper"
   avatar : "/assets/images/npSelfie.PNG"
   bio    : "Cybersecurity professional with a strong interest in securing critical infrastructure."
   links:
