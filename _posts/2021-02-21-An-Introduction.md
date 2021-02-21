@@ -1,5 +1,5 @@
 ---
-title: "An Introduction: Why I care about defending critical infrastructure"
+title: "An Introduction: Why I Care About Defending Critical Infrastructure"
 date: 2021-02-21T17:05:30-04:00
 categories:
   - blog
