@@ -16,7 +16,7 @@
 title: "Nick's ICS Cybersecurity Blog"
 email:
 description: >- # this means to ignore newlines until "baseurl:"
- Cybersecurity professional with a large interest in securing critical infrastructure.
+ Cybersecurity professional with a strong interest in securing our critical infrastructure.
 twitter_username: nckpieper
 github_username: nickpieper
 minimal_mistakes_skin: dark
@@ -58,7 +58,7 @@ plugins:
 author:
   name   :  "Nick Pieper"
   avatar : "/assets/images/npSelfie.PNG"
-  bio    : "Cybersecurity professional with a large interest in securing critical infrastructure."
+  bio    : "Cybersecurity professional with a strong interest in securing our critical infrastructure."
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
