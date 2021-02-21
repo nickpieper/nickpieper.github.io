@@ -58,7 +58,7 @@ plugins:
 author:
   name   :  "Nick Pieper"
   avatar : "/assets/images/npSelfie.PNG"
-  bio    : "Cybersecurity professional."
+  bio    : "Cybersecurity professional with a strong interest in offense and defense."
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
