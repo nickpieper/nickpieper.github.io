@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Nick's ICS Cybersecurity Blog"
+title: "Nick's Cybersecurity Blog"
 email:
 description: >- # this means to ignore newlines until "baseurl:"
- Cybersecurity professional with a strong interest in securing our critical infrastructure.
+ Cybersecurity professional with a strong interest in cyber threat intelligence.
 twitter_username: nckpieper
 github_username: nickpieper
 minimal_mistakes_skin: dark
@@ -58,7 +58,7 @@ plugins:
 author:
   name   :  "Nick Pieper"
   avatar : "/assets/images/npSelfie.PNG"
-  bio    : "Cybersecurity professional with a strong interest in securing our critical infrastructure."
+  bio    : "Cybersecurity professional with a strong interest in cyber threat intelligence."
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
